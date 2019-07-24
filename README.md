@@ -14,4 +14,4 @@ R6,R27,R8 | 1400 Ohm | 0805
 C1 | 100 nF | 0805
 C2,C3,C4,C5 | 220 uF | 8x10
 
-Boards can be ordered via [OSHPark](https://oshpark.com/shared_projects/jzNmi8o1) or somewhere else.
+Boards can be ordered via [PCBWay](https://www.pcbway.com/project/shareproject/cmvs_rgb_v2.html), [OSHPark](https://oshpark.com/shared_projects/jzNmi8o1) or somewhere else.
